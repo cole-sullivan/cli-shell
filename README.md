@@ -1,5 +1,3 @@
-# Shell
-
 ## About
 This is a basic command-line shell written in C, created as an exercise to learn more about how shells work.
 
